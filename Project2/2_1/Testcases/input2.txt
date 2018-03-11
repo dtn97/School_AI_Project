@@ -1,0 +1,9 @@
+KB
+~A|B
+C|~A
+~D|A
+~E
+~F|E|D
+F
+ENDKB
+B&C

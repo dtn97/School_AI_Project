@@ -1,0 +1,6 @@
+C:\Users\THANH NHON\Desktop\2_1\2_1\bin\Debug\2_1.exe.config
+C:\Users\THANH NHON\Desktop\2_1\2_1\bin\Debug\2_1.exe
+C:\Users\THANH NHON\Desktop\2_1\2_1\bin\Debug\2_1.pdb
+C:\Users\THANH NHON\Desktop\2_1\2_1\obj\Debug\2_1.csprojResolveAssemblyReference.cache
+C:\Users\THANH NHON\Desktop\2_1\2_1\obj\Debug\2_1.exe
+C:\Users\THANH NHON\Desktop\2_1\2_1\obj\Debug\2_1.pdb

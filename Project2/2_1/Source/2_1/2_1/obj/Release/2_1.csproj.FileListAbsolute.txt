@@ -1,0 +1,5 @@
+C:\Users\THANH NHON\Desktop\2_1\2_1\bin\Release\2_1.exe.config
+C:\Users\THANH NHON\Desktop\2_1\2_1\bin\Release\2_1.exe
+C:\Users\THANH NHON\Desktop\2_1\2_1\bin\Release\2_1.pdb
+C:\Users\THANH NHON\Desktop\2_1\2_1\obj\Release\2_1.exe
+C:\Users\THANH NHON\Desktop\2_1\2_1\obj\Release\2_1.pdb

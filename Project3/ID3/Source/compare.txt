@@ -1,0 +1,10 @@
+invertebrate
+fish
+bird
+mammal
+fish
+bird
+insect
+amphibian
+reptile
+bird

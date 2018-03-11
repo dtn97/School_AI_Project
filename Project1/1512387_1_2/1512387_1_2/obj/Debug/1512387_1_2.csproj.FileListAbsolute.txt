@@ -1,0 +1,9 @@
+C:\Users\THANH NHON\Desktop\1512387_1_2\1512387_1_2\bin\Debug\1512387_1_2.exe.config
+C:\Users\THANH NHON\Desktop\1512387_1_2\1512387_1_2\bin\Debug\1512387_1_2.exe
+C:\Users\THANH NHON\Desktop\1512387_1_2\1512387_1_2\bin\Debug\1512387_1_2.pdb
+C:\Users\THANH NHON\Desktop\1512387_1_2\1512387_1_2\obj\Debug\_1512387_1_2.Form1.resources
+C:\Users\THANH NHON\Desktop\1512387_1_2\1512387_1_2\obj\Debug\_1512387_1_2.Properties.Resources.resources
+C:\Users\THANH NHON\Desktop\1512387_1_2\1512387_1_2\obj\Debug\1512387_1_2.csproj.GenerateResource.Cache
+C:\Users\THANH NHON\Desktop\1512387_1_2\1512387_1_2\obj\Debug\1512387_1_2.exe
+C:\Users\THANH NHON\Desktop\1512387_1_2\1512387_1_2\obj\Debug\1512387_1_2.pdb
+C:\Users\THANH NHON\Desktop\1512387_1_2\1512387_1_2\obj\Debug\1512387_1_2.csprojResolveAssemblyReference.cache

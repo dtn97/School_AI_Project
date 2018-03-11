@@ -1,0 +1,7 @@
+KB
+~A|~B
+D|C
+C|A|B
+~C
+ENDKB
+~B
